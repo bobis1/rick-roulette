@@ -1,5 +1,10 @@
-
 > Open this page at [https://bobis1.github.io/rick-roulette/](https://bobis1.github.io/rick-roulette/)
+##About
+This repository is of a project made several years ago.
+You click on the "A" button and then the roulette starts in order to decide whether or not you will get rickrolled.
+
+
+
 
 ## Use as Extension
 
